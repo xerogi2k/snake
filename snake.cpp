@@ -185,4 +185,3 @@ int main(void)
 
     return 0;
 }
-//g++ -std=c++11 snake.cpp -o snake -lncurses
